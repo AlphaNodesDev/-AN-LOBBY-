@@ -31,7 +31,7 @@
   /ansetlobby
   ```
 
-### Permissions
+
 
 <p align="center"> 
   <samp>
